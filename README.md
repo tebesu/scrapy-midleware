@@ -19,3 +19,4 @@ pip install txsocksx
 
 
 [post]: https://stackoverflow.com/questions/21839676/how-to-write-a-downloadhandler-for-scrapy-that-makes-requests-through-socksipy
+[![Analytics](https://ga-beacon.appspot.com/UA-62086129-1/Scrapy_Middleware/readme?pixel)](https://github.com/igrigorik/ga-beacon)
